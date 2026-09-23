@@ -1,5 +1,10 @@
-This is chapter 2.
+This is new story chapter 2.
 
 text 1
+<<<<<<< HEAD
 
 text 2
+=======
+new story
+>>>>>>> new-storyz
+
