@@ -1,3 +1,5 @@
 This is new story chapter 1.
 
 text 1
+
+text new story
